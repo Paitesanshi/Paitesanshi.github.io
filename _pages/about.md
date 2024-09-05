@@ -17,42 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a third-year PhD student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of [Prof. Xu Chen](https://scholar.google.com/citations?hl=zh-CN&user=loPoqy0AAAAJ). I hold a bachelor’s degree in Software Engineering from Beijing Jiaotong University. My research interests lie in recommendation systems and LLM-based Agents, with a particular focus on the role-playing, simulation and human-like behaviors of Agents.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# News
+- *2024.03*: Our survey about LLM-based agent is accepted by **FCS**.
+- *2024.02*: One paper is accepted by **WWW 2024**.
+- *2023.12*: One paper is accepted by **AAAI 2024**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Publications 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## Published Papers
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- ``FCS`` [A Survey on Large Language Model based Autonomous Agents](https://link.springer.com/article/10.1007/s11704-024-40231-1), **Lei Wang**, Chen Ma\*, Xueyang Feng\*, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhi-Yuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``WWW 2024`` [Causally Debiased Time-aware Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645400), **Lei Wang**, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, Xu Chen
 
-# 🎖 Honors and Awards
+- ``AAAI 2024`` [Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework](https://ojs.aaai.org/index.php/AAAI/article/view/30166), **Lei Wang**, Xu Chen, Zhenhua Dong, Quanyu Dai
+
+
+## Preprints
+
+- [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/abs/2306.02552), **Lei Wang**, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen
+
+- CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds, **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
+
+
+## Resource
+
+- ``NeurIPS 2023`` [REASONER: an explainable recommendation dataset with comprehensive labeling ground truths](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ebf43d20e5933ab6d98225bbb908ade-Paper-Datasets_and_Benchmarks.pdf), Xu Chen, Jingsen Zhang, **Lei Wang**, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen
+
+- ``SIGIR 2023`` [Towards a more user-friendly and easy-to-use benchmark library for recommender systems](https://dl.acm.org/doi/abs/10.1145/3539618.3591889), Xu Chen, Jingsen Zhang, **Lei Wang**, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen
+
+
+
+<!-- # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Educations
+- *2022.09 - 2027.06 (expected)*, PhD in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2018.09 - 2022.06*, Bachelor’s in Software Engineering, Beijing Jiaotong University. 
 
-# 💬 Invited Talks
+<!-- # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Internships
+- *2024.01 - 2024.07*, MSRA, Social Computing Group, mentored by [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).

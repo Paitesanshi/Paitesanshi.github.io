@@ -1,72 +1,62 @@
 
-<h1 align="center">
-AcadHomepage
-</h1>
+# About me
 
-<div align="center">
+I am a third-year PhD student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of [Prof. Xu Chen](https://scholar.google.com/citations?hl=zh-CN&user=loPoqy0AAAAJ). I hold a bachelor’s degree in Software Engineering from Beijing Jiaotong University. My research interests lie in recommendation systems and LLM-based Agents, with a particular focus on the role-playing, simulation and human-like behaviors of Agents.
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+# News
+- *2025.01*: One paper is accepted by main conference of **NAACL**.
+- *2024.12*: One paper is accepted by **TOIS**.
+- *2024.03*: Our survey about LLM-based agent is accepted by **FCS**.
+- *2024.02*: One paper is accepted by **WWW 2024**.
+- *2023.12*: One paper is accepted by **AAAI 2024**.
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+# Publications 
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+## Published Papers
 
-## Quick Start
+- ``NAACL 2025`` CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds, **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+- ``TOIS`` [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/abs/2306.02552), **Lei Wang**, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen
 
-## Debug Locally
+- ``FCS`` [A Survey on Large Language Model based Autonomous Agents](https://link.springer.com/article/10.1007/s11704-024-40231-1), **Lei Wang**, Chen Ma\*, Xueyang Feng\*, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhi-Yuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+- ``WWW 2024`` [Causally Debiased Time-aware Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645400), **Lei Wang**, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, Xu Chen
 
-# Acknowledges
+- ``AAAI 2024`` [Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework](https://ojs.aaai.org/index.php/AAAI/article/view/30166), **Lei Wang**, Xu Chen, Zhenhua Dong, Quanyu Dai
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+
+## Preprints
+
+- Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents, **Lei Wang**, Zheqing Zhang, Xu Chen
+
+
+
+
+
+## Resource
+
+- ``ICLR 2025`` [MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents](https://arxiv.org/abs/2408.04203), Yanqi Dai, Huanran Hu, **Lei Wang**, Shengjie Jin, Xu Chen, Zhiwu Lu
+
+- ``NeurIPS 2023`` [REASONER: an explainable recommendation dataset with comprehensive labeling ground truths](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ebf43d20e5933ab6d98225bbb908ade-Paper-Datasets_and_Benchmarks.pdf), Xu Chen, Jingsen Zhang, **Lei Wang**, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen
+
+- ``SIGIR 2023`` [Towards a more user-friendly and easy-to-use benchmark library for recommender systems](https://dl.acm.org/doi/abs/10.1145/3539618.3591889), Xu Chen, Jingsen Zhang, **Lei Wang**, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen
+
+
+
+<!-- # Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# Educations
+- *2022.09 - 2027.06 (expected)*, PhD in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2018.09 - 2022.06*, Bachelor’s in Software Engineering, Beijing Jiaotong University. 
+
+<!-- # Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# Internships
+- *2024.12 - now*, Tonyi Lab, Alibaba, Beijing.
+- *2024.01 - 2024.07*, MSRA, Social Computing Group, mentored by [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).

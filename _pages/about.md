@@ -22,6 +22,8 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 
 # News
+- *2025.01*: One paper is accepted by main conference of **NAACL**.
+- *2024.12*: One paper is accepted by **TOIS**.
 - *2024.03*: Our survey about LLM-based agent is accepted by **FCS**.
 - *2024.02*: One paper is accepted by **WWW 2024**.
 - *2023.12*: One paper is accepted by **AAAI 2024**.
@@ -30,6 +32,10 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 
 ## Published Papers
+
+- ``NAACL 2025`` CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds, **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
+
+- ``TOIS`` [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/abs/2306.02552), **Lei Wang**, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen
 
 - ``FCS`` [A Survey on Large Language Model based Autonomous Agents](https://link.springer.com/article/10.1007/s11704-024-40231-1), **Lei Wang**, Chen Ma\*, Xueyang Feng\*, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhi-Yuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen
 
@@ -40,12 +46,15 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 ## Preprints
 
-- [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/abs/2306.02552), **Lei Wang**, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen
+- Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents, **Lei Wang**, Zheqing Zhang, Xu Chen
 
-- CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds, **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
+
+
 
 
 ## Resource
+
+- ``ICLR 2025`` [MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents](https://arxiv.org/abs/2408.04203), Yanqi Dai, Huanran Hu, **Lei Wang**, Shengjie Jin, Xu Chen, Zhiwu Lu
 
 - ``NeurIPS 2023`` [REASONER: an explainable recommendation dataset with comprehensive labeling ground truths](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ebf43d20e5933ab6d98225bbb908ade-Paper-Datasets_and_Benchmarks.pdf), Xu Chen, Jingsen Zhang, **Lei Wang**, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen
 
@@ -66,4 +75,5 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # Internships
+- *2024.12 - now*, Tonyi Lab, Alibaba, Beijing.
 - *2024.01 - 2024.07*, MSRA, Social Computing Group, mentored by [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).

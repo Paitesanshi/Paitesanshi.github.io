@@ -22,6 +22,8 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 
 # News
+- *2025.05*: We release [YuLan-OneSim(玉兰-万象)](https://github.com/RUC-GSAI/YuLan-OneSim), a code-free social simulation platform with AI social researcher, supporting large-scale simulations up to 100,000 LLM-based agents.
+- *2025.05*: One paper is accepted by main conference of **ACL**.
 - *2025.01*: One paper is accepted by main conference of **NAACL**.
 - *2024.12*: One paper is accepted by **TOIS**.
 - *2024.03*: Our survey about LLM-based agent is accepted by **FCS**.
@@ -33,7 +35,9 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 ## Published Papers
 
-- ``NAACL 2025`` CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds, **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
+- ``ACL 2025`` - [Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents](https://arxiv.org/abs/2502.12450), **Lei Wang**, Zheqing Zhang, Xu Chen
+
+- ``NAACL 2025`` [CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds](https://aclanthology.org/2025.naacl-long.323/), **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
 
 - ``TOIS`` [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/abs/2306.02552), **Lei Wang**, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen
 
@@ -46,7 +50,7 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 ## Preprints
 
-- Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents, **Lei Wang**, Zheqing Zhang, Xu Chen
+- [YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models](https://arxiv.org/abs/2505.07581), **Lei Wang**, Heyang Gao, Xiaohe Bo, Xu Chen, Ji-Rong Wen
 
 
 

@@ -17,25 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of [Prof. Xu Chen](https://scholar.google.com/citations?hl=zh-CN&user=loPoqy0AAAAJ). I hold a bachelor’s degree in Software Engineering from Beijing Jiaotong University. My research interests lie in recommendation systems and LLM-based Agents, with a particular focus on the role-playing, simulation and human-like behaviors of Agents.
+I am a fourth-year PhD student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of [Prof. Xu Chen](https://scholar.google.com/citations?hl=zh-CN&user=loPoqy0AAAAJ). I hold a bachelor’s degree in Software Engineering from Beijing Jiaotong University. My research interests lie in recommendation systems and LLM-based Agents, with a particular focus on the role-playing, simulation and human-like behaviors of Agents.
 
 
 
 # News
 - *2025.05*: We release [YuLan-OneSim(玉兰-万象)](https://github.com/RUC-GSAI/YuLan-OneSim), a code-free social simulation platform with AI social researcher, supporting large-scale simulations up to 100,000 LLM-based agents.
-- *2025.05*: One paper is accepted by main conference of **ACL**.
+- *2025.05*: One paper is accepted by main conference of **ACL (Oral, top 8%)** .
 - *2025.01*: One paper is accepted by main conference of **NAACL**.
 - *2024.12*: One paper is accepted by **TOIS**.
 - *2024.03*: Our survey about LLM-based agent is accepted by **FCS**.
-- *2024.02*: One paper is accepted by **WWW 2024**.
-- *2023.12*: One paper is accepted by **AAAI 2024**.
+- *2024.02*: One paper is accepted by **WWW**.
+- *2023.12*: One paper is accepted by **AAAI (Oral, top 5%)**.
 
 # Publications 
 
 
 ## Published Papers
 
-- ``ACL 2025`` - [Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents](https://arxiv.org/abs/2502.12450), **Lei Wang**, Zheqing Zhang, Xu Chen
+- ``ACL 2025 (Oral)`` - [Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents](https://arxiv.org/abs/2502.12450), **Lei Wang**, Zheqing Zhang, Xu Chen
 
 - ``NAACL 2025`` [CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds](https://aclanthology.org/2025.naacl-long.323/), **Lei Wang**, Jianxun Lian, Yi Huang, Yanqi Dai, Haoxuan Li, Xu Chen, Xing Xie, Ji-Rong Wen
 
@@ -45,7 +45,7 @@ I am a third-year PhD student at the Gaoling School of Artificial Intelligence, 
 
 - ``WWW 2024`` [Causally Debiased Time-aware Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645400), **Lei Wang**, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, Xu Chen
 
-- ``AAAI 2024`` [Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework](https://ojs.aaai.org/index.php/AAAI/article/view/30166), **Lei Wang**, Xu Chen, Zhenhua Dong, Quanyu Dai
+- ``AAAI 2024 (Oral)`` [Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework](https://ojs.aaai.org/index.php/AAAI/article/view/30166), **Lei Wang**, Xu Chen, Zhenhua Dong, Quanyu Dai
 
 
 ## Preprints

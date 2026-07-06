@@ -22,6 +22,8 @@ I am a fourth-year PhD student at the Gaoling School of Artificial Intelligence,
 
 
 # News
+- *2026.04*: We release [S-Researcher](https://arxiv.org/abs/2604.01520), a human-AI collaborative platform for social science automation built on LLM agents and YuLan-OneSim.
+- *2026.02*: We update [YuLan-OneSim(玉兰-万象)](https://github.com/RUC-GSAI/YuLan-OneSim) with static questionnaires, optimized dynamic multi-agent simulation, and improved online features. Enjoy it! [[post]](https://mp.weixin.qq.com/s/qSiS-efSOS8fWRvJi0nJWg)
 - *2025.05*: We release [YuLan-OneSim(玉兰-万象)](https://github.com/RUC-GSAI/YuLan-OneSim), a code-free social simulation platform with AI social researcher, supporting large-scale simulations up to 100,000 LLM-based agents.
 - *2025.05*: One paper is accepted by main conference of **ACL (Oral, top 8%)** .
 - *2025.01*: One paper is accepted by main conference of **NAACL**.
@@ -34,6 +36,8 @@ I am a fourth-year PhD student at the Gaoling School of Artificial Intelligence,
 
 
 ## Published Papers
+
+- ``NeurIPS 2025 Workshop (Oral)`` [YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models](https://arxiv.org/abs/2505.07581), **Lei Wang**, Heyang Gao, Xiaohe Bo, Xu Chen, Ji-Rong Wen
 
 - ``ACL 2025 (Oral)`` - [Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents](https://arxiv.org/abs/2502.12450), **Lei Wang**, Zheqing Zhang, Xu Chen
 
@@ -50,10 +54,7 @@ I am a fourth-year PhD student at the Gaoling School of Artificial Intelligence,
 
 ## Preprints
 
-- [YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models](https://arxiv.org/abs/2505.07581), **Lei Wang**, Heyang Gao, Xiaohe Bo, Xu Chen, Ji-Rong Wen
-
-
-
+- [LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation](https://arxiv.org/abs/2604.01520), **Lei Wang**, Yuanzi Li, Jinchao Wu, Heyang Gao, Xiaohe Bo, Xu Chen, Ji-Rong Wen
 
 
 ## Resource
@@ -79,5 +80,6 @@ I am a fourth-year PhD student at the Gaoling School of Artificial Intelligence,
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # Internships
+- *2026.03 - now*, miHoYo, LLM post-training, mentored by Owen Wang.
 - *2024.12 - now*, Tonyi Lab, Alibaba, Beijing.
 - *2024.01 - 2024.07*, MSRA, Social Computing Group, mentored by [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/).
